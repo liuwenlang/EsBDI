@@ -1,0 +1,3 @@
+external-sources=true
+# Parameters are assigned in config.sh and shared by sourced libraries.
+disable=SC2034,SC2154
